@@ -1,5 +1,7 @@
 # Linux-Bash-Scripting
 
+This project was created for academic purposes on the subject of 'Operating Systems' at the Aristotle University of Thessaloniki.
+
 Bash is one of the most common shells (unix shells). 
 In this project is developed a bash script which:
 ```
